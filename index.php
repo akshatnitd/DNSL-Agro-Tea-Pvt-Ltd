@@ -59,7 +59,7 @@
         </ol>
         <div class="carousel-inner">
             <div class="item active">
-                <img src="images/car1" class="img-responsive">
+                <img src="images/car1.jpg" class="img-responsive">
                 <div class="container">
                     <div class="carousel-caption">
                     </div>
@@ -272,7 +272,7 @@
         
     <br>
     <!-- Container (Contact Section) -->
-    <div id="contact " class="container-fluid pad ">
+    <div id="contact" class="container-fluid pad ">
         <h2 class="text-center " id="heads" style="color:#ffffff " >GET IN TOUCH</h2>
         </br>
         <div class="row ">
@@ -318,10 +318,8 @@
         </div>
     </div>
 
-    
-    <div id="googleMap " style="height:400px;width:100%; "></div>
-
     <!-- Add Google Maps -->
+    <div id="googleMap" style="height:400px;width:100%;"></div>
     
      <script>
         function initMap() {
@@ -344,7 +342,7 @@
     }
     </script>
     <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap ">
+        src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
     </script>
     
    
@@ -399,6 +397,7 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js "></script>
+    
     <!-- Plugin JavaScript -->
     <script src="js/jquery.easing.min.js "></script>
     <script src="js/jquery.fittext.js "></script>
