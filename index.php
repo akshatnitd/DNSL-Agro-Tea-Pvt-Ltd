@@ -161,14 +161,14 @@
                 </div>
                 <div class=" row no-gutter">
                     <div class="col-lg-4 col-sm-6 ">
-                        <a href="# " class="portfolio-box ">
-                            <img src="images/v1.jpg" class="img-responsive " alt=" ">
-                            <div class="portfolio-box-caption ">
-                                <div class="portfolio-box-caption-content ">
-                                    <div class="project-category text-faded ">
+                        <a href="#" class="portfolio-box">
+                            <img src="images/v1.jpg" class="img-responsive" alt="Broken Orange Pokoe">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
                                         BOP
                                     </div>
-                                    <div class="project-name ">
+                                    <div class="project-name">
                                         Broken Orange Pekoe
                                     </div>
                                 </div>
@@ -176,69 +176,69 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 ">
-                        <a href="# " class="portfolio-box ">
-                            <img src="images/v2.jpg " class="img-responsive " alt=" ">
-                            <div class="portfolio-box-caption ">
-                                <div class="portfolio-box-caption-content ">
-                                    <div class="project-category text-faded ">
+                        <a href="#" class="portfolio-box">
+                            <img src="images/v2.jpg" class="img-responsive" alt="Broken Orange Pekoe Small">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
                                         BOPSM
                                     </div>
-                                    <div class="project-name ">
+                                    <div class="project-name">
                                         Broken Orange Pekoe Small
                                     </div>
                                 </div>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6 ">
-                        <a href="# " class="portfolio-box ">
-                            <img src="images/v3.jpg " class="img-responsive " alt=" ">
-                            <div class="portfolio-box-caption ">
-                                <div class="portfolio-box-caption-content ">
-                                    <div class="project-category text-faded ">
+                    <div class="col-lg-4 col-sm-6">
+                        <a href="#" class="portfolio-box">
+                            <img src="images/v3.jpg" class="img-responsive" alt="Broken Pekoe">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
                                         BP
                                     </div>
-                                    <div class="project-name ">
+                                    <div class="project-name">
                                         Broken Pekoe
                                     </div>
                                 </div>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6 ">
-                        <a href="# " class="portfolio-box ">
-                            <img src="images/v4.jpg " class="img-responsive " alt=" ">
-                            <div class="portfolio-box-caption ">
-                                <div class="portfolio-box-caption-content ">
-                                    <div class="project-category text-faded ">
+                    <div class="col-lg-4 col-sm-6">
+                        <a href="#" class="portfolio-box">
+                            <img src="images/v4.jpg" class="img-responsive" alt="Orange Ferring">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
                                         OF
                                     </div>
-                                    <div class="project-name ">
+                                    <div class="project-name">
                                         Orange Ferring
                                     </div>
                                 </div>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6 ">
-                        <a href="# " class="portfolio-box ">
-                            <img src="images/v5.jpg " class="img-responsive " alt=" ">
-                            <div class="portfolio-box-caption ">
-                                <div class="portfolio-box-caption-content ">
-                                    <div class="project-category text-faded ">
+                    <div class="col-lg-4 col-sm-6">
+                        <a href="#" class="portfolio-box">
+                            <img src="images/v5.jpg" class="img-responsive" alt="Pekoe Dust">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
                                         PD
                                     </div>
-                                    <div class="project-name ">
+                                    <div class="project-name">
                                         Pekoe Dust
                                     </div>
                                 </div>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6 ">
-                        <a href="# " class="portfolio-box ">
-                            <img src="images/v6.jpg " class="img-responsive " alt=" ">
-                            <div class="overlay ">VARITIES</br>5 standard ones!</div>
+                    <div class="col-lg-4 col-sm-6">
+                        <a href="#" class="portfolio-box">
+                            <img src="images/v6.jpg" class="img-responsive" alt=" ">
+                            <div class="overlay">VARITIES</br>5 standard ones!</div>
                         </a>
                     </div>
                 </div>
@@ -260,7 +260,7 @@
             </div>
             <div class="col-sm-6">
 
-                <img class="img-circle" " src="images/dir.png " alt="Bhaiya ">
+                <img class="img-circle" src="images/dir.png " alt="Bhaiya">
                    <!-- <p><strong><br>Rohit Jindal</strong>
                     </p>-->
                         <p><strong>EXECUTIVE DIRECTOR</strong>
@@ -272,43 +272,43 @@
         
     <br>
     <!-- Container (Contact Section) -->
-    <div id="contact" class="container-fluid pad ">
-        <h2 class="text-center " id="heads" style="color:#ffffff " >GET IN TOUCH</h2>
+    <div id="contact" class="container-fluid pad">
+        <h2 class="text-center" id="heads" style="color:#ffffff;" >GET IN TOUCH</h2>
         </br>
-        <div class="row ">
-            <div class="col-sm-5 ">
-                <p id="heads ">Contact us and we'll get back to you within 24 hours.</p>
-                <p id="heads "><span class="logo-small glyphicon glyphicon-map-marker "></span> DevkiNandan ShankarLal Tea & Agro Private Limited</p>
-                <p id="heads "><span class="logo-small glyphicon glyphicon-phone "></span> +91 94 34 024868</p>
-                <p id="heads "><span class="logo-small glyphicon glyphicon-envelope "></span> jindaltm@gmail.com</p>
+        <div class="row">
+            <div class="col-sm-5">
+                <p id="heads">Contact us and we'll get back to you within 24 hours.</p>
+                <p id="heads"><span class="logo-small glyphicon glyphicon-map-marker"></span> DevkiNandan ShankarLal Tea & Agro Private Limited</p>
+                <p id="heads"><span class="logo-small glyphicon glyphicon-phone"></span> +91 94 34 024868</p>
+                <p id="heads"><span class="logo-small glyphicon glyphicon-envelope"></span> jindaltm@gmail.com</p>
             </div>
-            <div class="col-sm-7 slideanim ">
-    <form method="post " action="send.php ">
-   <div class="row ">
-                    <div class="col-sm-6 form-group ">
-                        <input class="form-control " id="name " name="name " placeholder="Name " type="text " style="text-transform: capitalize; " required>
+            <div class="col-sm-7 slideanim">
+    <form method="post" action="send.php">
+   <div class="row">
+                    <div class="col-sm-6 form-group">
+                        <input class="form-control" id="name" name="name" placeholder="Name" type="text" style="text-transform: capitalize;" required>
                         
                     </div>
-                    <div class="col-sm-6 form-group ">
-			 <input class="form-control " id="phone " name="phone " placeholder="Contact Number " type="text " required>
+                    <div class="col-sm-6 form-group">
+			 <input class="form-control" id="phone" name="phone" placeholder="Contact Number" type="text" required>
 			 
                     </div>
                 </div>
-		 <div class="row ">
-                    <div class="col-sm-6 form-group ">
-                        <input class="form-control " id="email " name="email " placeholder="Email " type="email " required>
+		 <div class="row">
+                    <div class="col-sm-6 form-group">
+                        <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
                         
                     </div>
                     <div class="col-sm-6 form-group ">
-                        <input class="form-control " id="location " name="location " placeholder="Location " type="text " required>
+                        <input class="form-control" id="location" name="location" placeholder="Location" type="text" required>
                         
                     </div>
                 </div>
-                <textarea class="form-control " id="comments " name="comments " placeholder="Message " rows="5 "></textarea>
+                <textarea class="form-control" id="comments" name="comments" placeholder="Message" rows="5"></textarea>
                 <br>
-                <div class="row ">
-                    <div class="col-sm-12 form-group ">
-                        <button class="btn btn-default btn-lg pull-right " style="background-color:#6FC617; color:#ffffff; border-color:#000000; " type="submit ">Send</button>
+                <div class="row">S
+                    <div class="col-sm-12 form-group">
+                        <button class="btn btn-default btn-lg pull-right" style="background-color:#6FC617; color:#ffffff; border-color:#000000;" type="submit">Send</button>
                     </div>
                 </div>
             
@@ -347,12 +347,12 @@
     
    
 
-    <footer class="container-fluid pad text-center ">
-        <a href="#myPage " title="To Top ">
-            <span class="glyphicon glyphicon-chevron-up "></span>
+    <footer class="container-fluid pad text-center">
+        <a href="#myPage" title="To Top">
+            <span class="glyphicon glyphicon-chevron-up"></span>
         </a>
         <p>
-            <b style="color:#ffffff " >The website and its contents is copyright of DNSL Agro & Pvt. Ltd. <br><i class="fa fa-copyright logo-small " style="font-size:20px; " aria-hidden="true "></i> 2015, DNSL Agro & Pvt. Ltd. All rights reserved.</b> 
+            <b style="color:#ffffff;" >The website and its contents is copyright of DNSL Agro & Pvt. Ltd. <br><i class="fa fa-copyright logo-small" style="font-size:20px;" aria-hidden="true"></i> 2015, DNSL Agro & Pvt. Ltd. All rights reserved.</b> 
     </footer>
 
     <script>
@@ -380,12 +380,12 @@
             });
 
             $(window).scroll(function() {
-                $(".slideanim ").each(function() {
+                $(".slideanim").each(function() {
                     var pos = $(this).offset().top;
 
                     var winTop = $(window).scrollTop();
                     if (pos < winTop + 600) {
-                        $(this).addClass("slide ");
+                        $(this).addClass("slide");
                     }
                 });
             });
