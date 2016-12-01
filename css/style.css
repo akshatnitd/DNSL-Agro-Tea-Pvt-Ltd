@@ -152,6 +152,7 @@ body {
     color: #5a5a5a;
 }
 .overlay {
+    font-family: 'Gloria Hallelujah', cursive;
     color: #ffffff;
     position: absolute;
     z-index: 12;
